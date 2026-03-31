@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1044600902,
+    "nombre": "wladimir arnedo",
+    "edad": 22,
+    "tipo_plan": "curso",
+    "status": "inactivo"
+  },
+  {
+    "id": 12365,
+    "name": "lola",
+    "age": 34,
+    "tipo_plan": "course",
+    "status": "inactive"
+  }
+]
